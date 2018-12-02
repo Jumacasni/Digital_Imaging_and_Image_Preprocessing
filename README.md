@@ -15,9 +15,9 @@ This practical assignment is composed of 3 matlab files:
 These functions are explained in the documentation, in point number V. 
 
 The documentation is divided in 6 sections:
-	- Section I is a brief introduction about measuring intensity.
-	- Section II explains the calibration of the images and how to calibrate them.
-	- Section III explains the identificacion of an object in an image.
-	- Section IV explains the environment and the equipment used, as well as the properties of it.
-	- Section V explains the source code used in Matlab and how to use it.
-	- Section VI is a the conclusion of the practical assignment, our results.
+- Section I is a brief introduction about measuring intensity.
+- Section II explains the calibration of the images and how to calibrate them.
+- Section III explains the identificacion of an object in an image.
+- Section IV explains the environment and the equipment used, as well as the properties of it.
+- Section V explains the source code used in Matlab and how to use it.
+- Section VI is a the conclusion of the practical assignment, our results.
